@@ -1,122 +1,108 @@
-## cheikh_ibra_s_application3
+<h1 align="center">Hi 👋, I'm Cheikh Ibra Faye</h1>
+<h3 align="center">Ingénieur informatique (DITI5) · Entrepreneur · Porteur de plusieurs projets</h3>
 
-Generated with ❤️ from [DhiWise](https://www.dhiwise.com)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ridialtech&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-## Description
+---
 
-- This React application is built using [create-react-app](https://create-react-app.dev/).
-- It uses [Tailwind CSS](https://tailwindcss.com/)
-- The application is generated in JavaScript.
+### À propos
 
-## Pre-requisites
+- 🎓 **Ingénieur informatique 5ᵉ année** au Groupe ISI (Dakar, Sénégal)
+- 🚀 **Porteur de plusieurs projets** : applications web et mobiles, plateformes SaaS, idées entrepreneuriales
+- 🌍 Basé à **Dakar, Sénégal**
+- 💼 Toujours partant pour collaborer sur des projets ambitieux
+- 📫 Contact : **fayeibracheikh@gmail.com**
+- ⚡ Fun fact : *je code, je build, je ship — puis je recommence*
 
-- [git](https://git-scm.com/) - v2.13 or greater
-- [NodeJS](https://nodejs.org/en/) - v16 or greater
-- [npm](https://www.npmjs.com/) - v6 or greater
+---
 
-## Running in dev environment
+### 🛠️ Stack & Outils
 
-1. `cd YOUR_APPLICATION`
-2. `npm install`
-3. `npm start`
+**Frontend Web**
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
-## .env file
+**Mobile**
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" alt="Capacitor" />
+</p>
 
-This file contains various environment variables that you can configure.
+**Backend**
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+</p>
 
-## Folder Structure
+**Bases de données & Stockage**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+</p>
 
-```
-.
-├── package.json
-├── postcss.config.js
-├── public
-│   ├── assets
-│   │   ├── images --------- All Project Images
-│   │   └── fonts ---------- Project fonts
-│   ├── favicon.ico
-│   ├── index.html
-│   ├── manifest.json
-│   └── robots.txt
-├── README.md
-├── src
-│   ├── App.jsx
-│   ├── components --------- UI and Detected Common Components
-│   ├── constants ---------- Project constants
-│   ├── hooks -------------- Helpful Hooks
-│   ├── index.jsx
-│   ├── pages -------------- All route pages
-│   ├── Routes.jsx ---------- Routing
-│   ├── styles
-│   │   ├── index.css ------ Other Global Styles
-│   │   └── tailwind.css --- Default Tailwind modules
-│   └── util
-│       └── index.jsx ------- Helpful utils
-└── tailwind.config.js ----- Entire theme config, colors, fonts etc.
-```
+**DevOps & Outils**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-For the project to build, **these files must exist with exact filenames**:
+**Design**
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
-- `public/index.html` is the page template;
-- `src/index.jsx` is the JavaScript entry point.
+---
 
-You may create subdirectories inside src.
+### 📊 GitHub Stats
 
-## Available Scripts
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ridialtech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridialtech&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+</p>
 
-In the project directory, you can run:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridialtech&theme=tokyonight" alt="Streak Stats" />
+</p>
 
-### `npm start`
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ridialtech&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
+</p>
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+---
 
-### `npm test`
+### 📬 Me contacter
 
-Launches the test runner in the interactive watch mode.<br>
+<p>
+  <a href="mailto:fayeibracheikh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.<br>
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time.
-
-## Installing a Dependency
-
-You can install any dependencies (for example, React Router) with `npm`:
-
-```sh
-npm install --save react-router
-```
-
-Alternatively you may use `yarn`:
-
-```sh
-yarn add react-router
-```
-
-## License
-
-MIT License
-
-Copyright (c) 2024 DhiWise
-
-Permission is hereby granted to any person obtaining a copy of this software and associated documentation files (the "Software"),to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-## DhiWise Support
-
-<a href="https://twitter.com/dhiwise"><img src="https://user-images.githubusercontent.com/35039342/55471524-8e24cb00-5627-11e9-9389-58f3d4419153.png" width="60" alt="DhiWise Twitter"></a>
-
-<a href="https://www.youtube.com/c/DhiWise"><img src="https://cdn.vox-cdn.com/thumbor/0kpe316UpZWk53iw3bOLoJfF6hI=/0x0:1680x1050/1400x1400/filters:focal(706x391:974x659):format(gif)/cdn.vox-cdn.com/uploads/chorus_image/image/56414325/YTLogo_old_new_animation.0.gif" width="60" alt="DhiWise YouTube"></a>
-
-<a href="https://discord.gg/UPhCetBkVu"><img src="https://user-images.githubusercontent.com/47489894/183043664-b01aac56-0372-458a-bde9-3f2a6bded21b.png" width="60" alt="DhiWise Discord"></a>
-
-<a href="https://docs.dhiwise.com/docs/react/intro"><img src="https://global-uploads.webflow.com/618e36726d3c0f19c9284e56/62383865d5477f2e4f6b6e2e_main-monogram-p-500.png" width="60" alt="DhiWise Documentation"></a>
+<p align="center">
+  <i>« Build, ship, learn, repeat. »</i>
+</p>
